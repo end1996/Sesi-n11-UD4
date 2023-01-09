@@ -17,7 +17,7 @@ class _frm_mant_tipo_usuario extends State<frm_mant_tipo_usuario> {
   @override
   Widget build(BuildContext context) {
     return  Scaffold(
-      appBar: AppBar(title: const Text('Mantenimiento tipo usuario'),),
+      appBar: AppBar(title: const Text('Mantenimiento tipo usuario enviado a GIT'),),
       body: Column(
         children: [
           TextField(
